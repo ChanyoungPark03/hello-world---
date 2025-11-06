@@ -1,2 +1,2 @@
-# hello-world---
-Git 및 Github 공부용
+# Inflearn(호눅스-Git과 GitHub 시작하기)
+
